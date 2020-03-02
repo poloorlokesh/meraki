@@ -1,0 +1,4 @@
+2020-03-02 07:46:52 INFO  AppStarter:62 - Starting on IOS Platform
+2020-03-02 07:47:00 INFO  AppStarter:68 - Test Settings :com.ciscomeraki.utils.AppConfig@68c9d179
+2020-03-02 07:49:43 INFO  AppStarter:62 - Starting on IOS Platform
+2020-03-02 07:49:50 INFO  AppStarter:68 - Test Settings :Platform Name :IOS Paltform Version : 11.0 APP : /Users/lpoloorm/Desktop/MerakiApiDemo.app Device Name :iPhone 8 Appium Server :http://127.0.0.1:4723/wd/hub API Key : 5da1735a6a6b1360986bb2c8c10ae2817e476244
