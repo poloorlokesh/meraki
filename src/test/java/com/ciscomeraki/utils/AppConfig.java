@@ -89,7 +89,7 @@ public class AppConfig {
 	}
 
 	public String toString() {
-		return "Platform Name :" + this.platformName + " Paltform Version : " + this.platformVersion + " APP : "
+		return "Platform Name :" + this.platformName + " Platform Version : " + this.platformVersion + " APP : "
 				+ this.app + " Device Name :" + this.deviceName + " Appium Server :" + this.appiumServer + " API Key : "
 				+ this.apiKey;
 	}
